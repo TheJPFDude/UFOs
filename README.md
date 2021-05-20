@@ -8,11 +8,11 @@ The purpose of this analysis is to create a webpage that uses HTML and JavaScrip
 
 To use the search criteria in the page, just type the desired element in lowercase (with state abbreviations for states). For example, if you want all sightings in California, just type "ca" in the "Enter State" search bar, as shown in this below image:
 
-![CA Search Results](Resources/ca_search_results.png)
+![CA Search Results](resources/ca_search_results.png)
 
 Similarly, if you want all results on a certain date, type the date in the "Enter Date" search bar in the form MM/DD/YYYY (using only one digit for single digit months/days). For example, here are results from January 2nd, 2010:
 
-![1/2/2010 Search Results](Resources/date_search_results.png)
+![1/2/2010 Search Results](resources/date_search_results.png)
 
 ## Summary
 
